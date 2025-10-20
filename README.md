@@ -165,4 +165,4 @@ The tuned XGBoost model shows a balanced ability to identify churners accurately
 ## Next Steps
 - Hyperparameter tuning for Random Forest and Logistic Regression for comparative robustness  
 - SHAP explainability analysis for customer-level insights  
-- **Deployment** via Flask or Streamlit to demonstrate real-time churn scoring  
+- Deployment via Flask or Streamlit to demonstrate real-time churn scoring  
