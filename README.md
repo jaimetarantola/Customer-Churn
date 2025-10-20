@@ -56,8 +56,8 @@ notebooks/EDA and notebooks/Churn_Modeling.ipynb.
 ---
 ---
 ![Churn Distribution](assets/Churn%20Share%20by%20Contract%20Type.png)
-![Churn Distribution](assets/Churn%20by%20by%20Payment%20Type.png)
-![Churn Distribution](assets/Paperless%20Billing20%Distribution20%Across20%Contract20%Types.png)
+![Churn Distribution](assets/Churn%20by%20Payment%20Type.png)
+![Churn Distribution](assets/Paperless%20Billing20%Distribution20%across20%contract20%types.png)
 
 
 ## Statistical Tests
