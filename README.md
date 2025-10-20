@@ -13,7 +13,6 @@ This project aims to:
 - Understand which contract, billing, and service features most influence churn.  
 - Build machine learning models that can predict churn probability for each customer.  
 - Provide actionable insights for retention strategies (e.g., targeting month-to-month and electronic check users).
----
 
 ---
 ## Technologies Used
@@ -24,13 +23,10 @@ This project aims to:
 - Precision–Recall threshold optimization for business tradeoff analysis  
 - Jupyter Notebook for development and presentation  
 ---
-
----
 ## Explore the Notebook
 For those interested in the code and step-by-step analysis, see
 notebooks/EDA and notebooks/Churn_Modeling.ipynb.
 
----
 
 ---
 ## Data Preparation
@@ -44,7 +40,6 @@ notebooks/EDA and notebooks/Churn_Modeling.ipynb.
 ### Exploratory Data Analysis Highlights
 - 26.5% of customers churned (class imbalance present).  
 - Class imbalance noted (approximately 3:1 ratio), to be addressed during modeling.
----
 
 ---
 ## Key Drivers of Churn
@@ -54,8 +49,6 @@ notebooks/EDA and notebooks/Churn_Modeling.ipynb.
 - Online Security/Tech Support:	Customers without these add-ons churned 2–3× more	Bundled service options improve retention.
 - Paperless Billing: Paperless users appear to churn more, but mostly because they are month-to-month and electronic check users 
 - Correlation, not causation — confirmed via cross-tab analysis.
----
-
 ---
 ## Statistical Tests
 - Chi-Square tests confirmed strong relationships between churn and categorical variables (Contract, PaymentMethod, OnlineSecurity).
@@ -99,8 +92,6 @@ Initial (pre-SMOTE) results:
 | Random Forest | **0.830** |
 | XGBoost | 0.822 |
 | Logistic Regression | 0.803 |
-
----
 
 ---
 ## Handling Class Imbalance
