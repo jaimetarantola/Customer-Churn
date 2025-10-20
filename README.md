@@ -54,6 +54,12 @@ notebooks/EDA and notebooks/Churn_Modeling.ipynb.
 - Paperless Billing: Paperless users appear to churn more, but mostly because they are month-to-month and electronic check users 
 - Correlation, not causation — confirmed via cross-tab analysis.
 ---
+---
+![Churn Distribution](assets/Churn%20Share%20by%20Contract%20Type.png)
+![Churn Distribution](assets/Churn%20by%20by%20Payment%20Type.png)
+![Churn Distribution](assets/Paperless%20Billing20%Distribution20%Across20%Contract20%Types.png)
+
+
 ## Statistical Tests
 - Chi-Square tests confirmed strong relationships between churn and categorical variables (Contract, PaymentMethod, OnlineSecurity).
 - T-Tests revealed significant differences in MonthlyCharges and Tenure between churned and retained customers.
