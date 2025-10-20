@@ -42,7 +42,7 @@ notebooks/EDA and notebooks/Churn_Modeling.ipynb.
 - Class imbalance noted (approximately 3:1 ratio), to be addressed during modeling.
 
 ---
-![Churn Distribution](assets/Churn Distribution.png)
+![Churn Distribution](assets/Churn_Distribution.png)
 ---
 
 ---
