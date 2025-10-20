@@ -29,6 +29,7 @@ This project aims to:
 ## Explore the Notebook
 For those interested in the code and step-by-step analysis, see
 notebooks/EDA and notebooks/Churn_Modeling.ipynb.
+
 ---
 
 ---
