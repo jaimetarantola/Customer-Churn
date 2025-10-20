@@ -4,6 +4,9 @@ Customer Churn Prediction- Exploratory Data Analysis
 Project Overview
 
 This project analyzes customer churn behavior using Kaggle's "Telco Customer Churn" dataset by Blastchar.
+
+Dataset Used: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 The goal is to identify key factors that contribute to customer churn and build a predictive model that can flag at-risk customers with strong accuracy and interpretability.
 
 ---
