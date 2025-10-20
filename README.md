@@ -40,9 +40,10 @@ notebooks/EDA and notebooks/Churn_Modeling.ipynb.
 ### Exploratory Data Analysis Highlights
 - 26.5% of customers churned (class imbalance present).  
 - Class imbalance noted (approximately 3:1 ratio), to be addressed during modeling.
-  
-![Churn Distribution](assets/Churn Distribution.png)
 
+---
+![Churn Distribution](assets/Churn Distribution.png)
+---
 
 ---
 ## Key Drivers of Churn
